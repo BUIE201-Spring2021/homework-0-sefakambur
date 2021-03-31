@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout << "sefa kambur" << endl;
+	cout << "sefa kambur-yeni" << endl;
 
 	return 0;
 }
